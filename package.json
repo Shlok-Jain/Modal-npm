@@ -1,0 +1,23 @@
+{
+  "name": "modal-npm",
+  "version": "1.0.0",
+  "description": "This is a html based modal dialog showing lobrary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shlok-Jain/Modal-npm.git"
+  },
+  "keywords": [
+    "modal",
+    "dialog"
+  ],
+  "author": "Shlok Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shlok-Jain/Modal-npm/issues"
+  },
+  "homepage": "https://github.com/Shlok-Jain/Modal-npm#readme"
+}
