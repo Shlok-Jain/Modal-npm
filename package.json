@@ -1,6 +1,6 @@
 {
   "name": "modal-npm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a html based modal dialog showing lobrary",
   "main": "index.js",
   "scripts": {
